@@ -29,7 +29,7 @@ This is my first data engineering project with data pipeline example of Facebook
 
 ## Data Pipeline
 
-![image-20210308080017712](C:\Users\Trey\AppData\Roaming\Typora\typora-user-images\image-20210308080017712.png)
+<img src="C:\Users\Trey\Desktop\Markdown files\Github\images\chatbot_pipeline.png" style="zoom:70%;" />
 
 ## How It Works
 
