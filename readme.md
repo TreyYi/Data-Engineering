@@ -29,7 +29,7 @@ This is my first data engineering project with data pipeline example of Facebook
 
 ## Data Pipeline
 
-<img src="C:\Users\Trey\Desktop\Markdown files\Github\images\chatbot_pipeline.png" style="zoom:70%;" />
+<img src="./images/chatbot_pipeline.png" style="zoom:70%;" />
 
 ## How It Works
 
